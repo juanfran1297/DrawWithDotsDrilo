@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 6311baac740bb404eb65e4ef42345457
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7755151410126835164
+    second: "Actividades y juegos para ni\xF1os_0"
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
