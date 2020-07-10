@@ -18,6 +18,8 @@ public class LineCreator : MonoBehaviour
         if(Input.GetMouseButtonUp(0))
         {
             activeLine = null;
+            GameObject linea = FindObjectOfType<LineRenderer>().gameObject;
+            Destroy(linea);
         }
 
         if(activeLine != null)

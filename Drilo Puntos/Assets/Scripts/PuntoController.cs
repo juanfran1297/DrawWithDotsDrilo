@@ -20,11 +20,11 @@ public class PuntoController : MonoBehaviour
                 FindObjectOfType<GameController>().marcado1 = true;
                 FindObjectOfType<GameController>().ComprobarPrimero();
             }
-            //else if (FindObjectOfType<GameController>().marcado1 == true)
-            //{
-            //    FindObjectOfType<GameController>().marcado2 = true;
-            //    //FindObjectOfType<GameController>().Comprobar();
-            //}
+            else if (FindObjectOfType<GameController>().marcado1 == true)
+            {
+                FindObjectOfType<GameController>().marcado2 = true;
+                FindObjectOfType<GameController>().Comprobar();
+            }
         }
         if(marcado == true)
         {
