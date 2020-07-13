@@ -41,6 +41,54 @@ TextureImporter:
   - first:
       213: -1359871227574469500
     second: GuauCascoLineasYPuntos_12
+  - first:
+      213: -1666077591171012861
+    second: GuauCascoLineasYPuntos_13
+  - first:
+      213: 6649028113650840433
+    second: GuauCascoLineasYPuntos_14
+  - first:
+      213: -7583278387185587569
+    second: GuauCascoLineasYPuntos_15
+  - first:
+      213: -589808389138206448
+    second: GuauCascoLineasYPuntos_16
+  - first:
+      213: -6089623211953707524
+    second: GuauCascoLineasYPuntos_17
+  - first:
+      213: -7679511030698158526
+    second: GuauCascoLineasYPuntos_18
+  - first:
+      213: 8178178283088299944
+    second: GuauCascoLineasYPuntos_19
+  - first:
+      213: -4145319697569329524
+    second: GuauCascoLineasYPuntos_20
+  - first:
+      213: -1122416616889923166
+    second: GuauCascoLineasYPuntos_21
+  - first:
+      213: 2170173586079711839
+    second: GuauCascoLineasYPuntos_22
+  - first:
+      213: 4795940223051058950
+    second: GuauCascoLineasYPuntos_23
+  - first:
+      213: -157621333847449555
+    second: GuauCascoLineasYPuntos_24
+  - first:
+      213: -7787037270344155587
+    second: GuauCascoLineasYPuntos_25
+  - first:
+      213: -1116543837246779458
+    second: GuauCascoLineasYPuntos_26
+  - first:
+      213: 6949523012823559108
+    second: GuauCascoLineasYPuntos_27
+  - first:
+      213: 5384185992216875615
+    second: GuauCascoLineasYPuntos_28
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -284,7 +332,7 @@ TextureImporter:
         width: 29
         height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -305,7 +353,7 @@ TextureImporter:
         width: 67
         height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -326,7 +374,7 @@ TextureImporter:
         width: 36
         height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -347,7 +395,7 @@ TextureImporter:
         width: 75
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -368,7 +416,7 @@ TextureImporter:
         width: 69
         height: 95
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -389,7 +437,7 @@ TextureImporter:
         width: 77
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -410,7 +458,7 @@ TextureImporter:
         width: 38
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -418,6 +466,342 @@ TextureImporter:
       bones: []
       spriteID: 48c362cc254c02de0800000000000000
       internalID: -1359871227574469500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1593
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30763021247e0e8e0800000000000000
+      internalID: -1666077591171012861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1596
+        width: 117
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737ebf57d7164c50800000000000000
+      internalID: 6649028113650840433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1553
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae7ea1c78c2c690800000000000000
+      internalID: -7583278387185587569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1456
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0113fdf156490d7f0800000000000000
+      internalID: -589808389138206448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1371
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a683f3ff4d7ba0800000000000000
+      internalID: -6089623211953707524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1272
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246da86c765ec6590800000000000000
+      internalID: -7679511030698158526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1184
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ca4191d9be7170800000000000000
+      internalID: 8178178283088299944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1114
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e43f9a2bdd876c0800000000000000
+      internalID: -4145319697569329524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1100
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c744a8006c60f0800000000000000
+      internalID: -1122416616889923166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1168
+        width: 24
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528733e0610e1e10800000000000000
+      internalID: 2170173586079711839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1288
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f47fe093a9e8240800000000000000
+      internalID: 4795940223051058950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1333
+        width: 81
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20eff26b3400ddf0800000000000000
+      internalID: -157621333847449555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1347
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb8603cd2eee390800000000000000
+      internalID: -7787037270344155587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1415
+        width: 145
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf01c4bb4d3180f0800000000000000
+      internalID: -1116543837246779458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_27
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1425
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb20c92c5aa17060800000000000000
+      internalID: 6949523012823559108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuauCascoLineasYPuntos_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1467
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5298be12a878ba40800000000000000
+      internalID: 5384185992216875615
       vertices: []
       indices: 
       edges: []

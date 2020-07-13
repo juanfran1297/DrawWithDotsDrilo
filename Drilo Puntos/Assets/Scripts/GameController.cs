@@ -43,8 +43,6 @@ public class GameController : MonoBehaviour
                 //Prueba visual de que funciona
                 puntos[0].GetComponent<Image>().color = Color.red;
                 puntos.Remove(puntos[0]);
-                //imagenes[0].enabled = true;
-                //imagenes.Remove(imagenes[0]);
             }
         }
     }
@@ -70,38 +68,11 @@ public class GameController : MonoBehaviour
                 imagenes[0].enabled = true;
                 imagenes.Remove(imagenes[0]);
                 puntos.Remove(puntos[0]);
-                //puntos.Remove(puntos[0]);
 
 
                 Reiniciar();
                 marcado2 = false;
             }
-            //if(puntos[0].GetComponent<PuntoController>().marcado == true)
-            //{
-            //    if(puntos[1].GetComponent<PuntoController>().marcado == false)
-            //    {
-            //        Debug.Log("No se ha cogido el segundo correctamente");
-            //        textoDePrueba.text = "No se ha cogido el segundo correctamente";
-            //        marcado2 = false;
-            //    }
-            //    else if(puntos[1].GetComponent<PuntoController>().marcado == true)
-            //    {
-            //        Debug.Log("Orden correcto, ¡A dibujar!");
-            //        textoDePrueba.text = "Orden correcto, ¡A dibujar!";
-            //        Debug.Log("Sale la imagen");
-            //        puntos[1].GetComponent<PuntoController>().enabled = false;
-            //        //Prueba visual de que funciona
-            //        puntos[1].GetComponent<Image>().color = Color.red;
-            //        imagenes[0].enabled = true;
-            //        imagenes.Remove(imagenes[0]);
-            //        puntos.Remove(puntos[0]);
-            //        puntos.Remove(puntos[0]);
-
-
-            //        Reiniciar();
-            //        marcado2 = false;
-            //    }
-            //}
         }
     }
 
@@ -110,8 +81,6 @@ public class GameController : MonoBehaviour
         for(int i = 0; i < puntos.Count; i++)
         {
             puntos[i].GetComponent<PuntoController>().marcado = false;
-            //marcado1 = false;
-            //marcado2 = false;
         }
     }
 }

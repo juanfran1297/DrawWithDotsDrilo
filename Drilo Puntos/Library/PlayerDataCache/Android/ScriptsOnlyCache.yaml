@@ -8,6 +8,12 @@ ScriptsOnlyBuild:
     - PuntoController
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -34,6 +40,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 58
       Script: {instanceID: 0}
     - Class: 68
@@ -44,30 +52,42 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
+    - Class: 109
+      Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11178}
+      Script: {instanceID: 11152}
     - Class: 114
-      Script: {instanceID: 11342}
+      Script: {instanceID: 11316}
     - Class: 114
-      Script: {instanceID: 11382}
+      Script: {instanceID: 11356}
     - Class: 114
-      Script: {instanceID: 11404}
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11752}
     - Class: 114
       Script: {instanceID: 11778}
     - Class: 114
-      Script: {instanceID: 11924}
+      Script: {instanceID: 11898}
     - Class: 114
-      Script: {instanceID: 12172}
+      Script: {instanceID: 12146}
     - Class: 114
-      Script: {instanceID: 12610}
+      Script: {instanceID: 12370}
     - Class: 114
-      Script: {instanceID: 12668}
+      Script: {instanceID: 12384}
     - Class: 114
-      Script: {instanceID: 12684}
+      Script: {instanceID: 12578}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12584}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 12642}
+    - Class: 114
+      Script: {instanceID: 12658}
+    - Class: 114
+      Script: {instanceID: 12686}
+    - Class: 114
+      Script: {instanceID: 12802}
+    - Class: 114
+      Script: {instanceID: 13004}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
