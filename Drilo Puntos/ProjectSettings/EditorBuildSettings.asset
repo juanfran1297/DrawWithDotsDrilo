@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/EscenaPrueba.unity
-    guid: 7cfd9cc594e13dd449be7280fd539df6
+    path: Assets/Scenes/GuauCara.unity
+    guid: 150ff0548ee64d047894f59cd9d81530
+  - enabled: 1
+    path: Assets/Scenes/DriloCara.unity
+    guid: 22b594a39c501514581338e211d96170
   m_configObjects: {}

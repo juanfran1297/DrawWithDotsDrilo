@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/EscenaPrueba.unity
+- path: Assets/Scenes/GuauCara.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

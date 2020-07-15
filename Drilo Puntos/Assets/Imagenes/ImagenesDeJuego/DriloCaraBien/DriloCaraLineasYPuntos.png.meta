@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 504ac03a8b5f2df4d8a054cc10bd2d94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3619636509993527597
+    second: DriloCaraLineasYPuntos_0
+  - first:
+      213: 6863744083989819442
+    second: DriloCaraLineasYPuntos_1
+  - first:
+      213: -7721660041837029697
+    second: DriloCaraLineasYPuntos_2
+  - first:
+      213: 3846045255254911169
+    second: DriloCaraLineasYPuntos_3
+  - first:
+      213: -6727342696251317897
+    second: DriloCaraLineasYPuntos_4
+  - first:
+      213: -4961005831076738991
+    second: DriloCaraLineasYPuntos_5
+  - first:
+      213: -4566596077830048290
+    second: DriloCaraLineasYPuntos_6
+  - first:
+      213: 8711835158848010744
+    second: DriloCaraLineasYPuntos_7
+  - first:
+      213: 5613912000218072582
+    second: DriloCaraLineasYPuntos_8
+  - first:
+      213: -2096730549537365633
+    second: DriloCaraLineasYPuntos_9
+  - first:
+      213: 2358865767196887076
+    second: DriloCaraLineasYPuntos_10
+  - first:
+      213: -782581100798983292
+    second: DriloCaraLineasYPuntos_11
+  - first:
+      213: -4329779318798314546
+    second: DriloCaraLineasYPuntos_12
+  - first:
+      213: 4814979894809206509
+    second: DriloCaraLineasYPuntos_13
+  - first:
+      213: 6589559999858964099
+    second: DriloCaraLineasYPuntos_14
+  - first:
+      213: 2803796300601710320
+    second: DriloCaraLineasYPuntos_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_0
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 401
+        width: 128
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61dc595c774cdc0800000000000000
+      internalID: -3619636509993527597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_1
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 541
+        width: 108
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f663f0eae04f50800000000000000
+      internalID: 6863744083989819442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 736
+        width: 97
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d9f16a1727d490800000000000000
+      internalID: -7721660041837029697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 889
+        width: 190
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ab8d48c5ef5530800000000000000
+      internalID: 3846045255254911169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 978
+        width: 75
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7712f93f57da3a2a0800000000000000
+      internalID: -6727342696251317897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_5
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1136
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158870e2b77f62bb0800000000000000
+      internalID: -4961005831076738991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1224
+        width: 236
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57f34ef0130a0c0800000000000000
+      internalID: -4566596077830048290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1239
+        width: 147
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9f4e07be7a6e870800000000000000
+      internalID: 8711835158848010744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1393
+        width: 166
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060d4d683f98ed40800000000000000
+      internalID: 5613912000218072582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1309
+        width: 186
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ad159caae6e2e0800000000000000
+      internalID: -2096730549537365633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1149
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428899edaef5cb020800000000000000
+      internalID: 2358865767196887076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 998
+        width: 107
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48341f692a6b325f0800000000000000
+      internalID: -782581100798983292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 801
+        width: 45
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3913356a889e3c0800000000000000
+      internalID: -4329779318798314546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 560
+        width: 81
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee10c614be32d240800000000000000
+      internalID: 4814979894809206509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 355
+        width: 255
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38677b928e1d27b50800000000000000
+      internalID: 6589559999858964099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCaraLineasYPuntos_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 296
+        width: 188
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f65be751e519e620800000000000000
+      internalID: 2803796300601710320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
