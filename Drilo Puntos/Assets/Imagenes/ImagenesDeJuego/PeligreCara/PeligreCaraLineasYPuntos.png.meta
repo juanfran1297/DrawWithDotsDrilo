@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 7c5e2509c31296b4aaad3017f1b34878
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2840325029924038253
+    second: PeligreCaraLineasYPuntos_0
+  - first:
+      213: -3532773468291345178
+    second: PeligreCaraLineasYPuntos_1
+  - first:
+      213: -3761599046173472878
+    second: PeligreCaraLineasYPuntos_2
+  - first:
+      213: 8335725501022653446
+    second: PeligreCaraLineasYPuntos_3
+  - first:
+      213: -1046501224948091151
+    second: PeligreCaraLineasYPuntos_4
+  - first:
+      213: -8051049303631828743
+    second: PeligreCaraLineasYPuntos_5
+  - first:
+      213: 2492258585444022161
+    second: PeligreCaraLineasYPuntos_6
+  - first:
+      213: 8173440184231461573
+    second: PeligreCaraLineasYPuntos_7
+  - first:
+      213: 4069029572253241345
+    second: PeligreCaraLineasYPuntos_8
+  - first:
+      213: 6751645197671579533
+    second: PeligreCaraLineasYPuntos_9
+  - first:
+      213: 1977258114200979081
+    second: PeligreCaraLineasYPuntos_10
+  - first:
+      213: -3907676731185106386
+    second: PeligreCaraLineasYPuntos_11
+  - first:
+      213: -2121136311556345638
+    second: PeligreCaraLineasYPuntos_12
+  - first:
+      213: 135352035588742064
+    second: PeligreCaraLineasYPuntos_13
+  - first:
+      213: -8796593611377725713
+    second: PeligreCaraLineasYPuntos_14
+  - first:
+      213: -7383385697573331772
+    second: PeligreCaraLineasYPuntos_15
+  - first:
+      213: 2940089372402534409
+    second: PeligreCaraLineasYPuntos_16
+  - first:
+      213: -7466000947311550700
+    second: PeligreCaraLineasYPuntos_17
+  - first:
+      213: -6028328023886839101
+    second: PeligreCaraLineasYPuntos_18
+  - first:
+      213: -3668615530717755494
+    second: PeligreCaraLineasYPuntos_19
+  - first:
+      213: -7823908589300507132
+    second: PeligreCaraLineasYPuntos_20
+  - first:
+      213: 780903466133927650
+    second: PeligreCaraLineasYPuntos_21
+  - first:
+      213: -4103489786133077907
+    second: PeligreCaraLineasYPuntos_22
+  - first:
+      213: 7880119512189819277
+    second: PeligreCaraLineasYPuntos_23
+  - first:
+      213: -8603659537179221954
+    second: PeligreCaraLineasYPuntos_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_0
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 360
+        width: 137
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3991ab81f632598d0800000000000000
+      internalID: -2840325029924038253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_1
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 359
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d19e7f3119fec0800000000000000
+      internalID: -3532773468291345178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 421
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c169e89d1ccbc0800000000000000
+      internalID: -3761599046173472878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_3
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 427
+        width: 46
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cce99bd227ea370800000000000000
+      internalID: 8335725501022653446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_4
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 594
+        width: 73
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f635f53ea41a71f0800000000000000
+      internalID: -1046501224948091151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_5
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 778
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86edb805de44090800000000000000
+      internalID: -8051049303631828743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_6
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 899
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197fec99af7469220800000000000000
+      internalID: 2492258585444022161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1015
+        width: 130
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20506fa84ed6170800000000000000
+      internalID: 8173440184231461573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1036
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d6ba56d8187830800000000000000
+      internalID: 4069029572253241345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1095
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fbfa81989a2bd50800000000000000
+      internalID: 6751645197671579533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1137
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986453667c1a07b10800000000000000
+      internalID: 1977258114200979081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_11
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1169
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22f6ac77b425c9c0800000000000000
+      internalID: -3907676731185106386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_12
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1202
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0708d43c53092e0800000000000000
+      internalID: -2121136311556345638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1372
+        width: 242
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb94e095fdd0e100800000000000000
+      internalID: 135352035588742064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1311
+        width: 300
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee2c5087b83ce580800000000000000
+      internalID: -8796593611377725713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1136
+        width: 124
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1170b3d1f88990800000000000000
+      internalID: -7383385697573331772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 939
+        width: 33
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90844f9f4bb4dc820800000000000000
+      internalID: 2940089372402534409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 873
+        width: 170
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd3cae1bf636890800000000000000
+      internalID: -7466000947311550700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 727
+        width: 52
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c241ba0a93175ca0800000000000000
+      internalID: -6028328023886839101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 597
+        width: 178
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97461aac95761dc0800000000000000
+      internalID: -3668615530717755494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 333
+        width: 80
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9d934794eb6390800000000000000
+      internalID: -7823908589300507132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 316
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b8c6a09356da00800000000000000
+      internalID: 780903466133927650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 303
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60281ed7c97d07c0800000000000000
+      internalID: -4103489786133077907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 310
+        width: 140
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d2b712fecb5d60800000000000000
+      internalID: 7880119512189819277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeligreCaraLineasYPuntos_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 307
+        width: 159
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e70e2c39a99880800000000000000
+      internalID: -8603659537179221954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

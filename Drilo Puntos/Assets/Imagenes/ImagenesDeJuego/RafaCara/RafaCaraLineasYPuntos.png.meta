@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 21387051c754db74f90048f64973e43b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4871852492918326051
+    second: RafaCaraLineasYPuntos_0
+  - first:
+      213: 5544389608189462677
+    second: RafaCaraLineasYPuntos_1
+  - first:
+      213: -7807669519959457250
+    second: RafaCaraLineasYPuntos_2
+  - first:
+      213: -3152052482585265401
+    second: RafaCaraLineasYPuntos_3
+  - first:
+      213: 499710847723516944
+    second: RafaCaraLineasYPuntos_4
+  - first:
+      213: -7999319550020694307
+    second: RafaCaraLineasYPuntos_5
+  - first:
+      213: 378179910797856415
+    second: RafaCaraLineasYPuntos_6
+  - first:
+      213: 536234092228666150
+    second: RafaCaraLineasYPuntos_7
+  - first:
+      213: 4863918022224274250
+    second: RafaCaraLineasYPuntos_8
+  - first:
+      213: 6046294533625765778
+    second: RafaCaraLineasYPuntos_9
+  - first:
+      213: -2446485038986681453
+    second: RafaCaraLineasYPuntos_10
+  - first:
+      213: -1458979328460908666
+    second: RafaCaraLineasYPuntos_11
+  - first:
+      213: -3192855232256849783
+    second: RafaCaraLineasYPuntos_12
+  - first:
+      213: -4076444053600059477
+    second: RafaCaraLineasYPuntos_13
+  - first:
+      213: 9192166323667049255
+    second: RafaCaraLineasYPuntos_14
+  - first:
+      213: -7036544288426060586
+    second: RafaCaraLineasYPuntos_15
+  - first:
+      213: -4557839712967103375
+    second: RafaCaraLineasYPuntos_16
+  - first:
+      213: 5354126361472594950
+    second: RafaCaraLineasYPuntos_17
+  - first:
+      213: -8022527012771805129
+    second: RafaCaraLineasYPuntos_18
+  - first:
+      213: -6744313381597929687
+    second: RafaCaraLineasYPuntos_19
+  - first:
+      213: 4625454872616700383
+    second: RafaCaraLineasYPuntos_20
+  - first:
+      213: -2329629706517508617
+    second: RafaCaraLineasYPuntos_21
+  - first:
+      213: -6405189713512711615
+    second: RafaCaraLineasYPuntos_22
+  - first:
+      213: 4450712198186205300
+    second: RafaCaraLineasYPuntos_23
+  - first:
+      213: -3798573738987625599
+    second: RafaCaraLineasYPuntos_24
+  - first:
+      213: -4263945844841525718
+    second: RafaCaraLineasYPuntos_25
+  - first:
+      213: -7177069884270968132
+    second: RafaCaraLineasYPuntos_26
+  - first:
+      213: -4967637169330959776
+    second: RafaCaraLineasYPuntos_27
+  - first:
+      213: -4411471114253232657
+    second: RafaCaraLineasYPuntos_28
+  - first:
+      213: 2894762358330539725
+    second: RafaCaraLineasYPuntos_29
+  - first:
+      213: -7296946488948537640
+    second: RafaCaraLineasYPuntos_30
+  - first:
+      213: 8159947791931122845
+    second: RafaCaraLineasYPuntos_31
+  - first:
+      213: 5685829271990333031
+    second: RafaCaraLineasYPuntos_32
+  - first:
+      213: 4903056903150474870
+    second: RafaCaraLineasYPuntos_33
+  - first:
+      213: 6170826360740552530
+    second: RafaCaraLineasYPuntos_34
+  - first:
+      213: -5671027794143487022
+    second: RafaCaraLineasYPuntos_35
+  - first:
+      213: 6763959810430368826
+    second: RafaCaraLineasYPuntos_36
+  - first:
+      213: 3287217963886488426
+    second: RafaCaraLineasYPuntos_37
+  - first:
+      213: -6396196842892576960
+    second: RafaCaraLineasYPuntos_38
+  - first:
+      213: -166173378142441019
+    second: RafaCaraLineasYPuntos_39
+  - first:
+      213: 6733899803231492593
+    second: RafaCaraLineasYPuntos_0
+  - first:
+      213: 968414121035175439
+    second: RafaCaraLineasYPuntos_1
+  - first:
+      213: -5730730295617550677
+    second: RafaCaraLineasYPuntos_2
+  - first:
+      213: 6914487879925252635
+    second: RafaCaraLineasYPuntos_3
+  - first:
+      213: -5244104249759139003
+    second: RafaCaraLineasYPuntos_4
+  - first:
+      213: 9015730867588574728
+    second: RafaCaraLineasYPuntos_5
+  - first:
+      213: 8425695387873602667
+    second: RafaCaraLineasYPuntos_6
+  - first:
+      213: -6428803887247228459
+    second: RafaCaraLineasYPuntos_7
+  - first:
+      213: -9183733828347063153
+    second: RafaCaraLineasYPuntos_8
+  - first:
+      213: 5445261513649354024
+    second: RafaCaraLineasYPuntos_9
+  - first:
+      213: 5336775053665751272
+    second: RafaCaraLineasYPuntos_10
+  - first:
+      213: -3163438939422163037
+    second: RafaCaraLineasYPuntos_11
+  - first:
+      213: 533494470624861434
+    second: RafaCaraLineasYPuntos_12
+  - first:
+      213: 2358692243369310630
+    second: RafaCaraLineasYPuntos_13
+  - first:
+      213: -1403109485824708987
+    second: RafaCaraLineasYPuntos_14
+  - first:
+      213: 3539642070539440339
+    second: RafaCaraLineasYPuntos_15
+  - first:
+      213: 3569004269726669034
+    second: RafaCaraLineasYPuntos_16
+  - first:
+      213: -2117425658559900434
+    second: RafaCaraLineasYPuntos_17
+  - first:
+      213: -8854899961673839011
+    second: RafaCaraLineasYPuntos_18
+  - first:
+      213: -6023274697802076323
+    second: RafaCaraLineasYPuntos_19
+  - first:
+      213: 9015662695844134444
+    second: RafaCaraLineasYPuntos_20
+  - first:
+      213: -6857031847092645529
+    second: RafaCaraLineasYPuntos_21
+  - first:
+      213: -3255619454604643572
+    second: RafaCaraLineasYPuntos_22
+  - first:
+      213: 2812376717214839094
+    second: RafaCaraLineasYPuntos_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_0
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 245
+        width: 198
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f99fac713e937d50800000000000000
+      internalID: 6733899803231492593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 268
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0616cf138f707d00800000000000000
+      internalID: 968414121035175439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 353
+        width: 73
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6852aa82b5870b0800000000000000
+      internalID: -5730730295617550677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 627
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1240be971235ff50800000000000000
+      internalID: 6914487879925252635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 728
+        width: 58
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7df328f23937b0800000000000000
+      internalID: -5244104249759139003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_5
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 858
+        width: 301
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2429e47f4e1d70800000000000000
+      internalID: 9015730867588574728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 937
+        width: 172
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6ad360551ee470800000000000000
+      internalID: 8425695387873602667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_7
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1069
+        width: 136
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18af10dec48c6a0800000000000000
+      internalID: -6428803887247228459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_8
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1229
+        width: 96
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8492a99db2dc8080800000000000000
+      internalID: -9183733828347063153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1441
+        width: 121
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825fc261f74719b40800000000000000
+      internalID: 5445261513649354024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1283
+        width: 116
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d9e7c2a8001a40800000000000000
+      internalID: 5336775053665751272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1297
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7a139b053914d0800000000000000
+      internalID: -3163438939422163037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1322
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcda3bf46a576700800000000000000
+      internalID: 533494470624861434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1308
+        width: 57
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93f743912cbb020800000000000000
+      internalID: 2358692243369310630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1542
+        width: 148
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eef6c4b57278ce0800000000000000
+      internalID: -1403109485824708987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1283
+        width: 70
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0188695b55f1130800000000000000
+      internalID: 3539642070539440339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1225
+        width: 106
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae819e25976a78130800000000000000
+      internalID: 3569004269726669034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1151
+        width: 176
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45d3705946d92e0800000000000000
+      internalID: -2117425658559900434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1033
+        width: 131
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e8fce66631d1580800000000000000
+      internalID: -8854899961673839011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 873
+        width: 34
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa8e43397096ca0800000000000000
+      internalID: -6023274697802076323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 771
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb78074711e1d70800000000000000
+      internalID: 9015662695844134444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 662
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761908c7ddde6d0a0800000000000000
+      internalID: -6857031847092645529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 591
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c037074ea57b1d2d0800000000000000
+      internalID: -3255619454604643572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RafaCaraLineasYPuntos_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 363
+        width: 58
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6317b2449b1970720800000000000000
+      internalID: 2812376717214839094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

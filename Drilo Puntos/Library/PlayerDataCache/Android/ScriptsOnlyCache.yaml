@@ -96,6 +96,75 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
+    Assets/Scenes/EraCara.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 68
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11174}
+    - Class: 114
+      Script: {instanceID: 11338}
+    - Class: 114
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11400}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 11920}
+    - Class: 114
+      Script: {instanceID: 12168}
+    - Class: 114
+      Script: {instanceID: 12392}
+    - Class: 114
+      Script: {instanceID: 12600}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12664}
+    - Class: 114
+      Script: {instanceID: 12680}
+    - Class: 114
+      Script: {instanceID: 12708}
+    - Class: 114
+      Script: {instanceID: 13026}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/GuauCara.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -109,11 +178,145 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 68
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11174}
+    - Class: 114
+      Script: {instanceID: 11338}
+    - Class: 114
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11400}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 11920}
+    - Class: 114
+      Script: {instanceID: 12168}
+    - Class: 114
+      Script: {instanceID: 12392}
+    - Class: 114
+      Script: {instanceID: 12600}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12664}
+    - Class: 114
+      Script: {instanceID: 12680}
+    - Class: 114
+      Script: {instanceID: 12708}
+    - Class: 114
+      Script: {instanceID: 13026}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/HugaCara.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 58
       Script: {instanceID: 0}
     - Class: 68
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11174}
+    - Class: 114
+      Script: {instanceID: 11338}
+    - Class: 114
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11400}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 11920}
+    - Class: 114
+      Script: {instanceID: 12168}
+    - Class: 114
+      Script: {instanceID: 12392}
+    - Class: 114
+      Script: {instanceID: 12600}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12664}
+    - Class: 114
+      Script: {instanceID: 12680}
+    - Class: 114
+      Script: {instanceID: 12708}
+    - Class: 114
+      Script: {instanceID: 13026}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/Menu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -130,19 +333,78 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11378}
     - Class: 114
-      Script: {instanceID: 11400}
-    - Class: 114
       Script: {instanceID: 11774}
     - Class: 114
       Script: {instanceID: 11800}
-    - Class: 114
-      Script: {instanceID: 11920}
     - Class: 114
       Script: {instanceID: 12168}
     - Class: 114
       Script: {instanceID: 12392}
     - Class: 114
       Script: {instanceID: 12406}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12664}
+    - Class: 114
+      Script: {instanceID: 12824}
+    - Class: 114
+      Script: {instanceID: 13026}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/PeligreCara.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 68
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11174}
+    - Class: 114
+      Script: {instanceID: 11338}
+    - Class: 114
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11400}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 11920}
+    - Class: 114
+      Script: {instanceID: 12168}
+    - Class: 114
+      Script: {instanceID: 12392}
     - Class: 114
       Script: {instanceID: 12600}
     - Class: 114
@@ -154,7 +416,143 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12708}
     - Class: 114
-      Script: {instanceID: 12824}
+      Script: {instanceID: 13026}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/PomPomCara.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 68
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11174}
+    - Class: 114
+      Script: {instanceID: 11338}
+    - Class: 114
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11400}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 11920}
+    - Class: 114
+      Script: {instanceID: 12168}
+    - Class: 114
+      Script: {instanceID: 12392}
+    - Class: 114
+      Script: {instanceID: 12600}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12664}
+    - Class: 114
+      Script: {instanceID: 12680}
+    - Class: 114
+      Script: {instanceID: 12708}
+    - Class: 114
+      Script: {instanceID: 13026}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/RafaCara.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 68
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11174}
+    - Class: 114
+      Script: {instanceID: 11338}
+    - Class: 114
+      Script: {instanceID: 11378}
+    - Class: 114
+      Script: {instanceID: 11400}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 11920}
+    - Class: 114
+      Script: {instanceID: 12168}
+    - Class: 114
+      Script: {instanceID: 12392}
+    - Class: 114
+      Script: {instanceID: 12600}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12664}
+    - Class: 114
+      Script: {instanceID: 12680}
+    - Class: 114
+      Script: {instanceID: 12708}
     - Class: 114
       Script: {instanceID: 13026}
     - Class: 115
@@ -628,6 +1026,12 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/Scenes/GuauCara.unity
+  - Assets/Scenes/Menu.unity
   - Assets/Scenes/DriloCara.unity
+  - Assets/Scenes/EraCara.unity
+  - Assets/Scenes/GuauCara.unity
+  - Assets/Scenes/HugaCara.unity
+  - Assets/Scenes/PeligreCara.unity
+  - Assets/Scenes/PomPomCara.unity
+  - Assets/Scenes/RafaCara.unity
   playerPath: C:/Users/jfran/Desktop/DibujarConPuntos.apk

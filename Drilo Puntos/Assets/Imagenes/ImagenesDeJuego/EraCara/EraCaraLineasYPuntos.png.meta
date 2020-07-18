@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: af7c4d66c49d3a04d97b6235efa8809e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6994529025011441717
+    second: EraCaraLineasYPuntos_0
+  - first:
+      213: 4408365126020185364
+    second: EraCaraLineasYPuntos_1
+  - first:
+      213: 3629992427815125410
+    second: EraCaraLineasYPuntos_2
+  - first:
+      213: -4208359425242957290
+    second: EraCaraLineasYPuntos_3
+  - first:
+      213: 6116089110230251120
+    second: EraCaraLineasYPuntos_4
+  - first:
+      213: 3939019427318223509
+    second: EraCaraLineasYPuntos_5
+  - first:
+      213: 2987709999312718319
+    second: EraCaraLineasYPuntos_6
+  - first:
+      213: -4327586625250731073
+    second: EraCaraLineasYPuntos_7
+  - first:
+      213: 8383460706583775616
+    second: EraCaraLineasYPuntos_8
+  - first:
+      213: 2626534333471412214
+    second: EraCaraLineasYPuntos_9
+  - first:
+      213: -5975797191465640864
+    second: EraCaraLineasYPuntos_10
+  - first:
+      213: -8781755624729027212
+    second: EraCaraLineasYPuntos_11
+  - first:
+      213: -1422252131122503154
+    second: EraCaraLineasYPuntos_12
+  - first:
+      213: 5651551477420000077
+    second: EraCaraLineasYPuntos_13
+  - first:
+      213: 553017830904641553
+    second: EraCaraLineasYPuntos_14
+  - first:
+      213: -6084871621273588528
+    second: EraCaraLineasYPuntos_15
+  - first:
+      213: 9076546009440860292
+    second: EraCaraLineasYPuntos_16
+  - first:
+      213: 8257824344601230652
+    second: EraCaraLineasYPuntos_17
+  - first:
+      213: -6309890400885283532
+    second: EraCaraLineasYPuntos_18
+  - first:
+      213: 3506902428273196641
+    second: EraCaraLineasYPuntos_19
+  - first:
+      213: 1655691072962780015
+    second: EraCaraLineasYPuntos_20
+  - first:
+      213: -3760407927397930218
+    second: EraCaraLineasYPuntos_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_0
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 464
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf980d09e07eee90800000000000000
+      internalID: -6994529025011441717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_1
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 633
+        width: 41
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d37a0c9b8ad2d30800000000000000
+      internalID: 4408365126020185364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_2
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 804
+        width: 205
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1474d61e2506230800000000000000
+      internalID: 3629992427815125410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_3
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 918
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af93b4667e895c0800000000000000
+      internalID: -4208359425242957290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1002
+        width: 46
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b8ed24a6b0e450800000000000000
+      internalID: 6116089110230251120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_5
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1118
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925aa0ac453aa630800000000000000
+      internalID: 3939019427318223509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1154
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9cae03a6a767920800000000000000
+      internalID: 2987709999312718319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1230
+        width: 182
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbd23394e251f3c0800000000000000
+      internalID: -4327586625250731073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1403
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0890f5c5819085470800000000000000
+      internalID: 8383460706583775616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1403
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4ee07f03537420800000000000000
+      internalID: 2626534333471412214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1284
+        width: 216
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd9e09d14b11da0800000000000000
+      internalID: -5975797191465640864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1197
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ddcbb79cfe02680800000000000000
+      internalID: -8781755624729027212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1186
+        width: 158
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a66fd835234ce0800000000000000
+      internalID: -1422252131122503154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1119
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43047120285e6e40800000000000000
+      internalID: 5651551477420000077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1071
+        width: 137
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118378589c6bca700800000000000000
+      internalID: 553017830904641553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1019
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce12edf713e8ba0800000000000000
+      internalID: -6084871621273588528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 901
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4883638818e56fd70800000000000000
+      internalID: 9076546009440860292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 716
+        width: 43
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d77855d7fa99270800000000000000
+      internalID: 8257824344601230652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 530
+        width: 173
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e5939c14ce68a0800000000000000
+      internalID: -6309890400885283532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 453
+        width: 129
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ebd2b9d250ba030800000000000000
+      internalID: 3506902428273196641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_20
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 445
+        width: 162
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b5bb532423af610800000000000000
+      internalID: 1655691072962780015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EraCaraLineasYPuntos_21
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 882
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b22ecd9e850dbc0800000000000000
+      internalID: -3760407927397930218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c628b22069fda4e448730f49c5dff2c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,9 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GuauCara.unity
-    guid: 150ff0548ee64d047894f59cd9d81530
+    path: Assets/Scenes/Menu.unity
+    guid: b92993525cf3b884087b6ef82ad64aa7
   - enabled: 1
     path: Assets/Scenes/DriloCara.unity
     guid: 22b594a39c501514581338e211d96170
+  - enabled: 1
+    path: Assets/Scenes/EraCara.unity
+    guid: 1c964b7ad0eebc74cb3df8a65373cb06
+  - enabled: 1
+    path: Assets/Scenes/GuauCara.unity
+    guid: 150ff0548ee64d047894f59cd9d81530
+  - enabled: 1
+    path: Assets/Scenes/HugaCara.unity
+    guid: 08c589006d1d6a247a1493add1472bcc
+  - enabled: 1
+    path: Assets/Scenes/PeligreCara.unity
+    guid: 95609b5a182b7d4488eb0655e9714860
+  - enabled: 1
+    path: Assets/Scenes/PomPomCara.unity
+    guid: 96fad4a05429d6542b191af1382f3708
+  - enabled: 1
+    path: Assets/Scenes/RafaCara.unity
+    guid: 5995f3da5e9e2ec448b8e67a7fb88a98
   m_configObjects: {}

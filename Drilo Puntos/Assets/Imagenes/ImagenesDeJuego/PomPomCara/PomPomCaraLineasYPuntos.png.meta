@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: c297ab1c40158ec479ce837a8f4ff226
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5482634095111558964
+    second: PomPomCaraLineasYPuntos_0
+  - first:
+      213: 3105872369136036601
+    second: PomPomCaraLineasYPuntos_1
+  - first:
+      213: -2071343581684062606
+    second: PomPomCaraLineasYPuntos_2
+  - first:
+      213: -6530251075766911141
+    second: PomPomCaraLineasYPuntos_3
+  - first:
+      213: 2964123917097926553
+    second: PomPomCaraLineasYPuntos_4
+  - first:
+      213: 4526511679565873259
+    second: PomPomCaraLineasYPuntos_5
+  - first:
+      213: 8320721181122598472
+    second: PomPomCaraLineasYPuntos_6
+  - first:
+      213: -7522007571009968430
+    second: PomPomCaraLineasYPuntos_7
+  - first:
+      213: 8332640244780034859
+    second: PomPomCaraLineasYPuntos_8
+  - first:
+      213: -2694404434015009033
+    second: PomPomCaraLineasYPuntos_9
+  - first:
+      213: 4993223790774292733
+    second: PomPomCaraLineasYPuntos_10
+  - first:
+      213: -8806390471451377048
+    second: PomPomCaraLineasYPuntos_11
+  - first:
+      213: 782392385740127191
+    second: PomPomCaraLineasYPuntos_12
+  - first:
+      213: 555132263884760653
+    second: PomPomCaraLineasYPuntos_13
+  - first:
+      213: -6409379046264957401
+    second: PomPomCaraLineasYPuntos_14
+  - first:
+      213: -607675319467850879
+    second: PomPomCaraLineasYPuntos_15
+  - first:
+      213: 5637705899174821089
+    second: PomPomCaraLineasYPuntos_16
+  - first:
+      213: -2498775458334034099
+    second: PomPomCaraLineasYPuntos_17
+  - first:
+      213: 1037813019833677258
+    second: PomPomCaraLineasYPuntos_18
+  - first:
+      213: -2560565364369793542
+    second: PomPomCaraLineasYPuntos_19
+  - first:
+      213: 1716494436850232137
+    second: PomPomCaraLineasYPuntos_20
+  - first:
+      213: -6914742634950694024
+    second: PomPomCaraLineasYPuntos_21
+  - first:
+      213: 2932013399285670268
+    second: PomPomCaraLineasYPuntos_22
+  - first:
+      213: -8837993801070399579
+    second: PomPomCaraLineasYPuntos_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_0
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 260
+        width: 196
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82e67b655c9e3b0800000000000000
+      internalID: -5482634095111558964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_1
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 279
+        width: 106
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faed00d6764a1b20800000000000000
+      internalID: 3105872369136036601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_2
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 459
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276afe5acfb1143e0800000000000000
+      internalID: -2071343581684062606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 600
+        width: 122
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ffccece33ef55a0800000000000000
+      internalID: -6530251075766911141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 684
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7cdc7ffea22920800000000000000
+      internalID: 2964123917097926553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_5
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 697
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604e2cd36661de30800000000000000
+      internalID: 4526511679565873259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 689
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84691e344d3297370800000000000000
+      internalID: 8320721181122598472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_7
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 854
+        width: 104
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e62ca7f57c9790800000000000000
+      internalID: -7522007571009968430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1124
+        width: 131
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bec37872c73a370800000000000000
+      internalID: 8332640244780034859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1188
+        width: 118
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f64c4d517d8b9ad0800000000000000
+      internalID: -2694404434015009033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1195
+        width: 184
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0912d159e7b4540800000000000000
+      internalID: 4993223790774292733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1282
+        width: 291
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86281c3468a69c580800000000000000
+      internalID: -8806390471451377048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1203
+        width: 252
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb203cabd9bda00800000000000000
+      internalID: 782392385740127191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1180
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a5305ad934b700800000000000000
+      internalID: 555132263884760653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1070
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269b8c37bf4d07a0800000000000000
+      internalID: -6409379046264957401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 900
+        width: 53
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183c85c348a1197f0800000000000000
+      internalID: -607675319467850879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 791
+        width: 30
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec707c35a72d3e40800000000000000
+      internalID: 5637705899174821089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 641
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d473980b5f0925dd0800000000000000
+      internalID: -2498775458334034099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 519
+        width: 159
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53676617d076e00800000000000000
+      internalID: 1037813019833677258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 402
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd1981e5b077cd0800000000000000
+      internalID: -2560565364369793542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 281
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b646f889632d710800000000000000
+      internalID: 1716494436850232137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 166
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be38a9536e900a0800000000000000
+      internalID: -6914742634950694024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 265
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ab15f6aa90b820800000000000000
+      internalID: 2932013399285670268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PomPomCaraLineasYPuntos_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 256
+        width: 237
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2810b673295580800000000000000
+      internalID: -8837993801070399579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
