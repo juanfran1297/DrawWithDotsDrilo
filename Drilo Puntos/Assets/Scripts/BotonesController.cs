@@ -14,4 +14,9 @@ public class BotonesController : MonoBehaviour
     {
         SceneManager.LoadScene(nombreEscena);
     }
+
+    public void ReproducirBorrar(string nombreSonido)
+    {
+        FindObjectOfType<AudioManager>().Play("Borrar");
+    }
 }
